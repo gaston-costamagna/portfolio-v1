@@ -2,7 +2,7 @@
   "name": "portfolio-v1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://gaston-costamagna.github.io/portfolio-v1/",
+  "homepage": "https://gaston-costamagna.github.io/portfolio-v1/",
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
     "@testing-library/jest-dom": "^5.16.4",
