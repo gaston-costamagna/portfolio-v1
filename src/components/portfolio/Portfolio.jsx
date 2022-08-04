@@ -1,11 +1,9 @@
 import React from 'react';
 import './portfolio.css';
-import IMG1 from '../../assets/portfolio1.jpg'
-import IMG2 from '../../assets/portfolio2.jpg'
-import IMG3 from '../../assets/portfolio3.jpg'
-import IMG4 from '../../assets/portfolio4.jpg'
-import IMG5 from '../../assets/portfolio5.png'
-import IMG6 from '../../assets/portfolio6.jpg'
+import IMG1 from '../../assets/portfolioPizza.jpg'
+import IMG2 from '../../assets/portfoliobanco.jpg'
+import IMG3 from '../../assets/portfoliorealstate.jpg'
+import IMG4 from '../../assets/portfoliossn.jpg'
 
 //Acordarse de cambiar imagenes de portfolio
 
@@ -14,29 +12,29 @@ const data = [
     id: 1,
     image: IMG1,
     title: 'Webpage Restaurant Pizza',
-    github: 'https://github.com',
-    demo:'https://github.com',
+    github: 'https://github.com/gaston-costamagna/pizza-website-v1',
+    demo:'https://relaxed-crepe-0db548.netlify.app',
   },
   {
     id: 2,
     image: IMG2,
     title: 'Webpage Virtual Bank',
-    github: 'https://github.com',
-    demo:'https://github.com',
+    github: 'https://github.com/gaston-costamagna/virtual-bank',
+    demo:'https://beautiful-banoffee-de3072.netlify.app',
   },
   {
     id: 3,
     image: IMG3,
     title: 'WebPage Venta de Propiedades',
-    github: 'https://github.com',
-    demo:'https://github.com',
+    github: 'https://github.com/gaston-costamagna/real-state',
+    demo:'https://extraordinary-torte-1c9f22.netlify.app',
   },
   {
     id: 4,
     image: IMG4,
     title: 'Tablero Comision Nacional de Seguros',
-    github: 'https://github.com',
-    demo:'https://github.com',
+    github: '#',
+    demo:'https://dribbble.com/shots/18969853-Tablero-Power-Bi-Presentaci-n-a-SSN',
   },
 ]
 
