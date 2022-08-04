@@ -2,6 +2,7 @@ header {
   height: 100vh;
   padding-top: 5rem;
   overflow: hidden;
+  
 }
 
 .header__container {
@@ -67,15 +68,16 @@ header {
 
 @media screen and (max-width: 1024px) {
   header {
-    height: 68vh;
+    height: 100vh;
   }
   }
 
 /* ------------- Media Queries SMALL DEVICES ------------*/
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 624px) {
   header {
-    height: 100vh;
+    height: 140vh;
+
   }
 
   .header__socials {

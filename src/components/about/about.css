@@ -90,16 +90,16 @@
 
 /* ------------- Media Queries SMALL DEVICES ------------*/
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 624px) {
     .about__me {
-        width: 65%;
+        width: 70%;
         margin: 0 auto 3rem;
-        
     }
 
-    .about__card {
+    .about__cards {
         grid-template-columns:  1fr 1fr;
         gap: 1rem;
+        
     }
 
     .about__content {
@@ -109,4 +109,8 @@
     .about__content p {
         margin: 1.5rem 0;
     }
+
+    section h5, section h2 {
+        padding-left: 0 !important;
+      }
 }

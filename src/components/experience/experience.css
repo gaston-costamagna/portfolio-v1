@@ -49,24 +49,40 @@
 
   .experiencie__container > div {
     width: 80%;
-    padding: 2rem;
+    padding: auto;
     margin: 0 auto;
   }
 
   .experience__content {
     padding: 1rem;
   }
+  
+  .contenedor-exp {
+    margin-top: 23rem;
+  }
 }
 
 /* ------------- Media Queries SMALL DEVICES ------------*/
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 624px) {
   .experience__container {
     gap: 1rem;
   }
 
+  section {
+    height: 160vh !important;
+    margin-top: 20rem !important;
+  }  
+
+  section h5, section h2 {
+    padding-left: 60px ;
+  }
+
   .experience__container > div {
     width: 100%;
-    padding: 2rem 1rem;
+    padding: auto;
+  }
+  .contenedor-exp {
+    margin-top: 30rem;
   }
 }

@@ -6,6 +6,10 @@
 
 }
 
+#contact {
+  margin-top: 80rem !important;
+  height: 100vh;
+}
 
 section > h3 {
   color: var(--color-primary);
@@ -71,6 +75,7 @@ input, textarea {
     grid-template-columns: 1fr;
     gap: 2rem;
   }
+
 }
 
 /* ------------- Media Queries SMALL DEVICES ------------*/
@@ -78,5 +83,8 @@ input, textarea {
 @media screen and (max-width: 600px) {
   .container.contact__container {
     width: var(--container-width-sm);
+  
   }
+
+
 }

@@ -22,7 +22,7 @@ const Contact = () => {
   };
 
   return (
-    <section id='contact'>
+    <section id='contact' className='contenedor-contacto'>
       <h3>Contactame</h3>
 
       <div className="container contact__container">
