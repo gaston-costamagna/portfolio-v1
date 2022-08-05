@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio-v1/static/css/main.ddd7f11e.css",
+    "main.css": "/portfolio-v1/static/css/main.2cb7f854.css",
     "main.js": "/portfolio-v1/static/js/main.c0f4634b.js",
     "static/media/ME3.png": "/portfolio-v1/static/media/ME3.2b855e0b5376455dec63.png",
     "static/media/GastonCostamagnaCV2022Agosto.pdf": "/portfolio-v1/static/media/GastonCostamagnaCV2022Agosto.019186f9053d3f3454e4.pdf",
@@ -11,11 +11,11 @@
     "static/media/portfoliossn.jpg": "/portfolio-v1/static/media/portfoliossn.52473229cddd751953d1.jpg",
     "static/media/portfoliobanco.jpg": "/portfolio-v1/static/media/portfoliobanco.cced5e84006811e90877.jpg",
     "index.html": "/portfolio-v1/index.html",
-    "main.ddd7f11e.css.map": "/portfolio-v1/static/css/main.ddd7f11e.css.map",
+    "main.2cb7f854.css.map": "/portfolio-v1/static/css/main.2cb7f854.css.map",
     "main.c0f4634b.js.map": "/portfolio-v1/static/js/main.c0f4634b.js.map"
   },
   "entrypoints": [
-    "static/css/main.ddd7f11e.css",
+    "static/css/main.2cb7f854.css",
     "static/js/main.c0f4634b.js"
   ]
 }
