@@ -6,7 +6,7 @@
 
 .experience__container > div {
   background: var(--color-bg-variant);
-  padding: 2.4rem 5rem;
+  padding: 2.4rem 1rem;
   border-radius: 2rem;
   border: 1px solid transparent;
   transition: var(--transition);
@@ -33,6 +33,7 @@
 .experience__details {
   display: flex;
   gap: 1rem;
+  margin: auto;
 }
 
 .experiencie__details-icon {
@@ -65,6 +66,7 @@
 /* ------------- Media Queries SMALL DEVICES ------------*/
 
 @media screen and (max-width: 624px) {
+  
   .experience__container {
     gap: 1rem;
   }
@@ -73,15 +75,15 @@
     padding-left: 60px ;
   }
 
-  .experience__container > div {
+  /*.experience__container > div {
     width: 100%;
     padding: auto;
-  }
+  }*/
   .contenedor-exp {
     margin-top: 30rem;
   }
 
   #experience {
-    margin-top: 45rem;
+    margin-top: 36rem;
   }
 }

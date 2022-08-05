@@ -25,7 +25,7 @@ const data = [
   {
     id: 3,
     image: IMG3,
-    title: 'WebPage Venta de Propiedades',
+    title: 'WebPage Propiedades',
     github: 'https://github.com/gaston-costamagna/real-state',
     demo:'https://extraordinary-torte-1c9f22.netlify.app',
   },
@@ -33,7 +33,7 @@ const data = [
     id: 4,
     image: IMG4,
     title: 'Tablero Comision Nacional de Seguros',
-    github: '#',
+    /*github: '',*/
     demo:'https://dribbble.com/shots/18969853-Tablero-Power-Bi-Presentaci-n-a-SSN',
   },
 ]
@@ -55,7 +55,7 @@ const Portfolio = () => {
               </div>
               <h3> {title} </h3>
               <div className="portfolio__item-cta">
-              <a href={github} className='btn'>Github</a>
+              <a href={github} className='btn' target='_blank'>Github</a>
               <a href={demo} className='btn btn-primary' target='_blank'>Live Demo</a>
               </div>
               </article>
