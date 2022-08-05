@@ -39,10 +39,14 @@
 
 /* ------------- Media Queries SMALL DEVICES ------------*/
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 624px) {
   .portfolio__container {
     grid-template-columns: 1fr;
     gap: 1rem;
+  }
+
+  #portfolio {
+    margin-top: 25rem;
   }
 }
 

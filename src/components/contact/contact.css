@@ -6,10 +6,11 @@
 
 }
 
-#contact {
+/*#contact {
   margin-top: 80rem !important;
   height: 100vh;
 }
+*/
 
 section > h3 {
   color: var(--color-primary);
@@ -80,10 +81,15 @@ input, textarea {
 
 /* ------------- Media Queries SMALL DEVICES ------------*/
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 624px) {
   .container.contact__container {
     width: var(--container-width-sm);
-  
+  }
+
+  #contact {
+    margin-top: 90rem;
+    height: 100vh;
+    margin-bottom: 20rem;
   }
 
 
