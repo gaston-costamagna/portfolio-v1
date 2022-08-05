@@ -1,21 +1,20 @@
 {
   "files": {
-    "main.css": "/portfolio-v1/static/css/main.2cb7f854.css",
-    "main.js": "/portfolio-v1/static/js/main.c0f4634b.js",
+    "main.css": "/portfolio-v1/static/css/main.98715516.css",
+    "main.js": "/portfolio-v1/static/js/main.34719608.js",
     "static/media/ME3.png": "/portfolio-v1/static/media/ME3.2b855e0b5376455dec63.png",
     "static/media/GastonCostamagnaCV2022Agosto.pdf": "/portfolio-v1/static/media/GastonCostamagnaCV2022Agosto.019186f9053d3f3454e4.pdf",
-    "static/media/me-about.jpg": "/portfolio-v1/static/media/me-about.fb4452e7f286d3636ef9.jpg",
     "static/media/ME2.jpg": "/portfolio-v1/static/media/ME2.9160aa9ac5ea5b8d43f5.jpg",
     "static/media/portfolioPizza.jpg": "/portfolio-v1/static/media/portfolioPizza.95a678f3e7bb757d1293.jpg",
     "static/media/portfoliorealstate.jpg": "/portfolio-v1/static/media/portfoliorealstate.376926f0e2d5dd9f8860.jpg",
     "static/media/portfoliossn.jpg": "/portfolio-v1/static/media/portfoliossn.52473229cddd751953d1.jpg",
     "static/media/portfoliobanco.jpg": "/portfolio-v1/static/media/portfoliobanco.cced5e84006811e90877.jpg",
     "index.html": "/portfolio-v1/index.html",
-    "main.2cb7f854.css.map": "/portfolio-v1/static/css/main.2cb7f854.css.map",
-    "main.c0f4634b.js.map": "/portfolio-v1/static/js/main.c0f4634b.js.map"
+    "main.98715516.css.map": "/portfolio-v1/static/css/main.98715516.css.map",
+    "main.34719608.js.map": "/portfolio-v1/static/js/main.34719608.js.map"
   },
   "entrypoints": [
-    "static/css/main.2cb7f854.css",
-    "static/js/main.c0f4634b.js"
+    "static/css/main.98715516.css",
+    "static/js/main.34719608.js"
   ]
 }
