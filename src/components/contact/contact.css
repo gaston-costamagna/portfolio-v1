@@ -77,19 +77,22 @@ input, textarea {
     gap: 2rem;
   }
 
+  #contact {
+    margin-bottom: 30rem;
+  }
 }
 
 /* ------------- Media Queries SMALL DEVICES ------------*/
 
-@media screen and (max-width: 624px) {
+@media screen and (max-width: 600px) {
   .container.contact__container {
     width: var(--container-width-sm);
   }
 
   #contact {
-    margin-top: 75rem;
+    margin-top: 90rem;
     height: 100vh;
-    margin-bottom: 20rem;
+    margin-bottom: 30rem;
   }
 
 

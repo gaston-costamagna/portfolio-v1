@@ -35,16 +35,23 @@
     grid-template-columns: 1fr 1fr;
     gap: 1.2rem;
   }
+
+  #portfolio {
+    margin-top: 20rem;
+  }
 }
 
 /* ------------- Media Queries SMALL DEVICES ------------*/
 
-@media screen and (max-width: 624px) {
+@media screen and (max-width: 600px) {
   .portfolio__container {
     grid-template-columns: 1fr;
     gap: 1rem;
   }
 
+  #portfolio {
+    margin-top: 15rem;
+  }
 
 }
 

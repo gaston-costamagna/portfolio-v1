@@ -61,11 +61,15 @@
   .contenedor-exp {
     margin-top: 23rem;
   }
+
+  #experience {
+    margin-top: 30rem;
+  }
 }
 
 /* ------------- Media Queries SMALL DEVICES ------------*/
 
-@media screen and (max-width: 624px) {
+@media screen and (max-width: 600px) {
   
   .experience__container {
     gap: 1rem;
@@ -79,11 +83,9 @@
     width: 100%;
     padding: auto;
   }*/
-  .contenedor-exp {
-    margin-top: 30rem;
-  }
+
 
   #experience {
-    margin-top: 36rem;
+    margin-top: 50rem;
   }
 }
